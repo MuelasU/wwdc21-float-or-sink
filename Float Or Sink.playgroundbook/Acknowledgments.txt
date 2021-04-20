@@ -1,0 +1,9 @@
+Credits and Acknowledgments
+
+1) All the images were made by me at Figma. I want to thanks Quassum Manus for SVG-to-SwiftUI that helps me transpose the vectors images to SwiftUI Shapes: https://github.com/quassummanus/SVG-to-SwiftUI
+
+2) Thanks for Pedro Cacique's playlist of Swift Playgrounds (https://www.youtube.com/playlist?list=PLYuOxl9ZmiGbC4sdE6QhgLkTPUJE79GA7). These videos helped me a lot to setup my playground project.
+
+3) The font families used are provided in Apple platforms. In this project I used:
+	- Avenir
+	- Georgia
